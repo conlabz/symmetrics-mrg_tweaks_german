@@ -1,0 +1,10 @@
+build/app/code/community/Symmetrics/TweaksGerman/ app/code/community/Symmetrics/TweaksGerman/
+build/app/design/adminhtml/default/default/layout/tweaksgerman.xml app/design/adminhtml/default/default/layout/tweaksgerman.xml
+build/app/design/adminhtml/default/default/template/tweaksgerman/ app/design/adminhtml/default/default/template/tweaksgerman/
+build/app/design/frontend/default/default/layout/tweaksgerman.xml app/design/frontend/default/default/layout/tweaksgerman.xml
+build/app/design/frontend/default/default/template/tweaksgerman/ app/design/frontend/default/default/template/tweaksgerman/
+build/app/etc/modules/Symmetrics_TweaksGerman.xml app/etc/modules/Symmetrics_TweaksGerman.xml
+build/app/locale/de_DE/Symmetrics_TweaksGerman.csv app/locale/de_DE/Symmetrics_TweaksGerman.csv
+build/js/symmetrics/tweaksgerman/ js/symmetrics/tweaksgerman/
+build/skin/adminhtml/default/default/images/symmetrics/ skin/adminhtml/default/default/images/symmetrics/
+build/skin/frontend/default/default/css/symmetrics/tweaksgerman.css skin/frontend/default/default/css/symmetrics/tweaksgerman.css
